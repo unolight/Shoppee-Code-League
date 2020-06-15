@@ -1,6 +1,6 @@
 Code League Round 1 <br />
 
-The problem's descripiton is damn ambiguous suck problem.
+The problem's descripiton is damn ambiguous **suck problem**.
 
 Clarification: 
 
