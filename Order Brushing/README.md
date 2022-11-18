@@ -1,6 +1,7 @@
 Code League Round 1 <br />
 
-The problem's descripiton is ambiguous.
+Low quality problem. 
+Descripiton is ambiguous.
 
 Clarification: 
 
